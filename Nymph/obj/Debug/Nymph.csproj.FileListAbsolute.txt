@@ -9,7 +9,6 @@ C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.exe
 C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.pdb
 C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.Home.resources
 C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.ExcellForm.resources
-C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.PersonForm.resources
 C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.Settings.resources
 C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.csproj.Up2Date
 C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ICSharpCode.SharpZipLib.dll
@@ -19,3 +18,6 @@ C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ExcelDataReader.xml
 C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ExcelDataReader.DataSet.dll
 C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ExcelDataReader.DataSet.pdb
 C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.TxtToDBForm.resources

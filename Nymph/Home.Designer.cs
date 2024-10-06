@@ -1,4 +1,4 @@
-﻿namespace Nymph
+﻿namespace DarkPrinc3_DB_Editor
 {
     partial class Home
     {
@@ -173,7 +173,7 @@
             this.personButton.Size = new System.Drawing.Size(200, 60);
             this.personButton.TabIndex = 3;
             this.personButton.TabStop = false;
-            this.personButton.Text = "Personel";
+            this.personButton.Text = "TxtToDB";
             this.personButton.UseVisualStyleBackColor = true;
             this.personButton.Click += new System.EventHandler(this.button2_Click);
             // 

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Nymph.Properties
+namespace DarkPrinc3_DB_Editor.Properties
 {
 
 

@@ -1,0 +1,35 @@
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\Nymph.exe.config
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\Nymph.exe
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\Nymph.pdb
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ExcelDataReader.dll
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ExcelDataReader.pdb
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ExcelDataReader.xml
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\DarkPrinc3 DB Editor.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.ExcellForm.resources
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.Home.resources
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.TxtToDBForm.resources
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.Properties.Resources.resources
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.Settings.resources
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\DarkPrinc3 DB Editor.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\DarkPrinc3 DB Editor.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\DarkPrin.9E307DDF.Up2Date
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.exe
+C:\Users\Enes\source\repos\Nymph\Nymph\obj\Debug\Nymph.pdb
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Buffers.dll
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Memory.dll
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Buffers.xml
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Memory.xml
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Enes\source\repos\Nymph\Nymph\bin\Debug\System.Threading.Tasks.Extensions.xml

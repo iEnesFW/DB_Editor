@@ -1,4 +1,4 @@
-﻿namespace Nymph
+﻿namespace DarkPrinc3_DB_Editor
 {
     partial class ExcellForm
     {

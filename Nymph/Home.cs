@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Diagnostics;
 using System.Drawing;
@@ -10,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Nymph
+namespace DarkPrinc3_DB_Editor
 {
     public partial class Home : Form
     {
@@ -28,6 +29,7 @@ namespace Nymph
             dateTimeTimer.Start();
 
             ActivateButton(homeButton);
+
         }
 
         private void ActivateButton(object btnSender)
@@ -158,7 +160,7 @@ namespace Nymph
         private void button2_Click(object sender, EventArgs e)
         {
             ActivateButton(sender);
-            OpenChildForm(new PersonForm());
+            OpenChildForm(new TxtToDBForm());
         }
         private void button4_Click_1(object sender, EventArgs e)
         {

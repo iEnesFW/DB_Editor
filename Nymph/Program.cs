@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Nymph
+namespace DarkPrinc3_DB_Editor
 {
     internal static class Program
     {
@@ -14,6 +14,7 @@ namespace Nymph
         [STAThread]
         static void Main()
         {
+            ConfigHelper.LoadConfig();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Home());

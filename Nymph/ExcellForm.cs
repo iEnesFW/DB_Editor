@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Nymph
+namespace DarkPrinc3_DB_Editor
 {
     public partial class ExcellForm : Form
     {
@@ -18,7 +18,6 @@ namespace Nymph
         {
             InitializeComponent();
         }
-        DataSet ds;
         private void addExcell_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
